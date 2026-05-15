@@ -1,0 +1,721 @@
+buyer_id,sale_id,buyer_type,payment_mode,loan_taken,loan_provider,loan_amount
+1,l01179,end user,cash,False,none,0
+2,l00866,investor,cheque,False,none,0
+3,l00102,investor,cheque,True,axis,2317757
+4,l00440,investor,bank transfer,False,none,0
+5,l00059,investor,upi,True,hdfc,4191221
+6,l01121,end user,cheque,True,pnb,5583760
+7,l00324,investor,cheque,False,none,0
+8,l00975,investor,cheque,False,none,0
+9,l00412,investor,cheque,False,none,0
+10,l00856,end user,cash,True,axis,4045381
+11,l00821,end user,cash,False,none,0
+12,l00045,end user,bank transfer,False,none,0
+13,l00050,investor,cheque,False,none,0
+14,l00850,end user,upi,True,sbi,7930296
+15,l00241,investor,cheque,True,icici,9436023
+16,l00171,end user,bank transfer,False,none,0
+17,l00524,investor,cash,False,none,0
+18,l00766,end user,cash,False,none,0
+19,l00839,end user,cash,False,none,0
+20,l00424,investor,upi,False,none,0
+21,l00381,end user,cash,True,pnb,5508034
+22,l00610,investor,bank transfer,False,none,0
+23,l00677,end user,upi,True,axis,7429696
+24,l00345,investor,cheque,False,none,0
+25,l00110,investor,cash,True,pnb,2014020
+26,l00278,investor,bank transfer,True,axis,6171213
+27,l00678,investor,cheque,False,none,0
+28,l00571,investor,upi,True,sbi,2021567
+29,l00359,investor,cheque,True,axis,4478227
+30,l00599,end user,bank transfer,True,axis,4469398
+31,l00391,end user,cash,True,icici,4951639
+32,l00894,end user,cash,False,none,0
+33,l00693,investor,upi,False,none,0
+34,l00728,end user,cash,True,icici,1662028
+35,l00363,end user,upi,True,icici,7964815
+36,l00597,investor,upi,True,axis,5143183
+37,l00428,investor,upi,False,none,0
+38,l00071,end user,cash,False,none,0
+39,l00322,end user,cheque,False,none,0
+40,l00653,investor,cash,True,pnb,550676
+41,l01066,investor,upi,False,none,0
+42,l00108,end user,cash,False,none,0
+43,l01109,end user,cash,True,hdfc,3301801
+44,l00356,end user,upi,False,none,0
+45,l00951,end user,bank transfer,False,none,0
+46,l00343,end user,bank transfer,False,none,0
+47,l00355,end user,upi,False,none,0
+48,l00024,investor,upi,False,none,0
+49,l00044,end user,cash,True,sbi,8202063
+50,l00244,end user,upi,True,axis,3699653
+51,l00738,end user,cheque,False,none,0
+52,l01136,investor,upi,False,none,0
+53,l00368,end user,cash,True,pnb,1395669
+54,l00164,investor,cheque,False,none,0
+55,l01116,end user,cheque,True,sbi,3770038
+56,l00333,investor,bank transfer,True,axis,1132448
+57,l00989,end user,cash,False,none,0
+58,l01173,investor,bank transfer,True,sbi,8947538
+59,l01002,investor,upi,True,icici,9805272
+60,l00378,end user,bank transfer,True,hdfc,9363189
+61,l00310,investor,bank transfer,True,sbi,2694012
+62,l00156,investor,bank transfer,True,axis,8294032
+63,l00211,investor,cheque,True,hdfc,9017430
+64,l00087,end user,bank transfer,False,none,0
+65,l00169,end user,bank transfer,False,none,0
+66,l00995,end user,bank transfer,False,none,0
+67,l00052,end user,cheque,True,pnb,2876544
+68,l00439,investor,bank transfer,True,hdfc,9308916
+69,l00550,end user,cash,False,none,0
+70,l00491,investor,upi,False,none,0
+71,l00426,investor,cheque,True,axis,4781375
+72,l00136,end user,cheque,False,none,0
+73,l01192,end user,bank transfer,False,none,0
+74,l00055,investor,cheque,True,hdfc,5152228
+75,l00079,investor,cheque,False,none,0
+76,l00431,investor,cheque,False,none,0
+77,l00185,investor,upi,True,icici,3674013
+78,l00057,end user,cheque,True,sbi,3469229
+79,l00943,investor,bank transfer,True,icici,9012788
+80,l00851,investor,bank transfer,False,none,0
+81,l01164,end user,cash,False,none,0
+82,l00219,end user,upi,False,none,0
+83,l00845,investor,cheque,True,pnb,6109307
+84,l00114,investor,upi,True,axis,2574905
+85,l00549,investor,cheque,True,axis,8411033
+86,l01019,investor,cash,False,none,0
+87,l01073,investor,cash,True,sbi,6609288
+88,l00175,investor,cash,False,none,0
+89,l01023,investor,cheque,True,axis,1778639
+90,l00616,end user,upi,True,icici,3282168
+91,l00514,investor,cheque,False,none,0
+92,l00462,end user,cheque,False,none,0
+93,l00287,end user,bank transfer,False,none,0
+94,l00382,investor,bank transfer,True,icici,7733356
+95,l01008,investor,bank transfer,False,none,0
+96,l00671,end user,upi,False,none,0
+97,l00535,end user,upi,False,none,0
+98,l00910,end user,cash,False,none,0
+99,l00293,investor,cash,True,hdfc,4628402
+100,l00124,end user,cash,True,sbi,6825324
+101,l00583,end user,bank transfer,False,none,0
+102,l00141,investor,bank transfer,True,axis,8554849
+103,l00736,investor,cheque,True,pnb,4239057
+104,l00082,investor,bank transfer,False,none,0
+105,l00882,investor,upi,False,none,0
+106,l00740,investor,upi,False,none,0
+107,l01102,investor,cheque,False,none,0
+108,l00909,investor,upi,True,pnb,8747928
+109,l01167,investor,cheque,True,sbi,5575296
+110,l00937,end user,cheque,False,none,0
+111,l00372,end user,bank transfer,False,none,0
+112,l00890,investor,upi,False,none,0
+113,l00157,end user,upi,True,icici,5663055
+114,l00992,investor,cheque,True,hdfc,7891474
+115,l00622,investor,bank transfer,False,none,0
+116,l01038,end user,cash,False,none,0
+117,l00245,end user,cash,False,none,0
+118,l00159,investor,cash,False,none,0
+119,l00746,end user,upi,False,none,0
+120,l00193,investor,cash,True,sbi,691174
+121,l00534,investor,cash,False,none,0
+122,l00904,investor,bank transfer,False,none,0
+123,l01004,investor,cash,False,none,0
+124,l01070,investor,upi,False,none,0
+125,l00414,investor,cash,True,axis,7394177
+126,l01187,investor,upi,True,sbi,968628
+127,l00328,investor,upi,True,hdfc,2673653
+128,l00129,investor,bank transfer,False,none,0
+129,l00695,investor,cheque,True,pnb,935719
+130,l00631,investor,cheque,False,none,0
+131,l00275,investor,bank transfer,True,sbi,5359803
+132,l01148,investor,cheque,True,sbi,4385904
+133,l00309,end user,upi,True,hdfc,4861126
+134,l00234,end user,bank transfer,True,hdfc,6145401
+135,l01048,end user,cheque,True,pnb,5498536
+136,l00623,end user,upi,True,axis,4056407
+137,l00644,end user,upi,True,icici,9502991
+138,l00479,end user,upi,False,none,0
+139,l00472,end user,cash,False,none,0
+140,l00926,end user,upi,False,none,0
+141,l01098,end user,bank transfer,False,none,0
+142,l00627,investor,cash,True,hdfc,4124169
+143,l00395,investor,upi,True,pnb,5250704
+144,l00637,investor,cheque,True,icici,3045459
+145,l00768,investor,bank transfer,True,pnb,5712705
+146,l00533,investor,cheque,False,none,0
+147,l00718,end user,bank transfer,False,none,0
+148,l00667,investor,bank transfer,True,sbi,8995220
+149,l00598,investor,bank transfer,False,none,0
+150,l00482,investor,cheque,True,hdfc,2680913
+151,l01103,end user,cash,False,none,0
+152,l00315,end user,cheque,False,none,0
+153,l00729,end user,cheque,True,axis,4801792
+154,l00210,end user,cash,True,pnb,5078931
+155,l00934,investor,cheque,True,hdfc,6369210
+156,l00434,investor,upi,True,icici,5365886
+157,l00329,end user,cash,False,none,0
+158,l00261,investor,cash,True,hdfc,4544699
+159,l01117,investor,upi,False,none,0
+160,l00307,end user,upi,False,none,0
+161,l01067,end user,cheque,True,sbi,4551434
+162,l00928,investor,upi,True,axis,5444076
+163,l01025,investor,upi,False,none,0
+164,l00271,investor,upi,True,icici,4881154
+165,l00291,end user,bank transfer,True,pnb,1896338
+166,l00813,end user,cash,False,none,0
+167,l00097,end user,cheque,True,axis,7580322
+168,l00888,end user,bank transfer,False,none,0
+169,l00819,end user,cash,True,icici,3015205
+170,l00032,end user,upi,True,axis,8406460
+171,l00763,end user,cheque,True,sbi,1431566
+172,l00954,investor,bank transfer,False,none,0
+173,l00320,end user,cheque,True,pnb,6927741
+174,l00299,investor,upi,False,none,0
+175,l00200,investor,bank transfer,False,none,0
+176,l00561,end user,upi,True,icici,8196172
+177,l00179,end user,cash,False,none,0
+178,l01132,end user,cheque,False,none,0
+179,l00089,end user,upi,False,none,0
+180,l00788,investor,cheque,False,none,0
+181,l00725,end user,cash,False,none,0
+182,l00827,investor,upi,True,axis,9711336
+183,l00209,investor,cash,False,none,0
+184,l01040,end user,cash,True,sbi,8013405
+185,l00297,investor,upi,False,none,0
+186,l00998,investor,upi,True,sbi,3424963
+187,l00498,end user,bank transfer,True,sbi,8643511
+188,l00835,end user,upi,True,icici,2537468
+189,l00430,investor,upi,False,none,0
+190,l00507,end user,bank transfer,True,sbi,9657264
+191,l00831,end user,upi,True,pnb,7341682
+192,l00694,end user,cheque,False,none,0
+193,l00011,end user,upi,True,hdfc,6828628
+194,l00848,investor,cheque,False,none,0
+195,l00463,end user,bank transfer,True,hdfc,9150054
+196,l00199,end user,cheque,True,pnb,8166446
+197,l00060,investor,bank transfer,False,none,0
+198,l00907,end user,bank transfer,False,none,0
+199,l00997,investor,bank transfer,True,pnb,537031
+200,l00276,end user,bank transfer,True,sbi,3048628
+201,l00809,investor,bank transfer,False,none,0
+202,l00908,end user,upi,True,sbi,1918148
+203,l00658,investor,upi,True,axis,8370469
+204,l00957,investor,cheque,True,sbi,1645256
+205,l00886,end user,cash,False,none,0
+206,l00221,end user,cheque,True,sbi,3311716
+207,l00789,investor,upi,False,none,0
+208,l00712,end user,cash,False,none,0
+209,l00714,end user,upi,True,icici,8758641
+210,l01113,end user,bank transfer,False,none,0
+211,l01191,end user,upi,True,pnb,6285373
+212,l00790,investor,cheque,False,none,0
+213,l00416,investor,bank transfer,False,none,0
+214,l00899,end user,cash,False,none,0
+215,l00935,investor,bank transfer,False,none,0
+216,l00266,end user,upi,True,hdfc,5675268
+217,l00632,investor,upi,False,none,0
+218,l00248,end user,upi,False,none,0
+219,l00683,end user,cheque,True,sbi,3561179
+220,l00559,investor,cash,False,none,0
+221,l01137,investor,upi,False,none,0
+222,l00968,end user,upi,False,none,0
+223,l01005,investor,cheque,True,pnb,2373180
+224,l00985,end user,cheque,False,none,0
+225,l00295,investor,upi,True,sbi,4027788
+226,l00520,end user,cheque,False,none,0
+227,l00771,end user,cheque,True,sbi,8655878
+228,l00084,end user,cash,False,none,0
+229,l00232,end user,upi,False,none,0
+230,l00621,investor,cash,False,none,0
+231,l00334,end user,upi,False,none,0
+232,l00130,end user,cheque,True,sbi,9800572
+233,l01012,investor,bank transfer,False,none,0
+234,l00645,end user,upi,False,none,0
+235,l00974,investor,bank transfer,True,sbi,5738569
+236,l00383,end user,bank transfer,False,none,0
+237,l00868,end user,cash,True,sbi,8934966
+238,l00543,end user,cash,True,sbi,6851325
+239,l01194,investor,cheque,False,none,0
+240,l00875,investor,bank transfer,False,none,0
+241,l00332,investor,upi,False,none,0
+242,l00410,investor,bank transfer,True,sbi,3488536
+243,l00077,end user,cheque,True,hdfc,830278
+244,l00869,end user,cash,True,hdfc,2164370
+245,l00139,end user,cheque,False,none,0
+246,l00544,investor,upi,False,none,0
+247,l00674,investor,cash,True,axis,3396789
+248,l00921,end user,upi,True,icici,6888182
+249,l00064,end user,cash,False,none,0
+250,l00142,investor,bank transfer,False,none,0
+251,l00717,end user,cash,False,none,0
+252,l00377,investor,cheque,True,axis,2947059
+253,l00364,investor,upi,True,axis,9526689
+254,l00140,end user,upi,False,none,0
+255,l00885,end user,cheque,True,icici,2034434
+256,l01042,investor,bank transfer,False,none,0
+257,l00225,end user,cheque,False,none,0
+258,l00515,end user,upi,True,sbi,7634008
+259,l00267,end user,bank transfer,True,axis,6020935
+260,l01170,end user,cash,True,sbi,989772
+261,l00487,end user,upi,True,hdfc,7214876
+262,l00353,end user,upi,False,none,0
+263,l01006,end user,upi,False,none,0
+264,l00618,end user,cash,False,none,0
+265,l00668,investor,bank transfer,False,none,0
+266,l00775,investor,upi,False,none,0
+267,l00554,investor,upi,False,none,0
+268,l00576,investor,upi,False,none,0
+269,l00915,investor,upi,True,axis,3574498
+270,l00466,investor,cheque,False,none,0
+271,l00591,investor,cash,True,icici,652755
+272,l00765,end user,bank transfer,False,none,0
+273,l00635,investor,cheque,False,none,0
+274,l00838,investor,cheque,False,none,0
+275,l00290,end user,cash,True,axis,1946443
+276,l00040,end user,cash,True,axis,6608860
+277,l00031,end user,cash,False,none,0
+278,l00243,investor,bank transfer,False,none,0
+279,l00429,end user,cheque,True,axis,5521652
+280,l00137,investor,cash,True,sbi,5111026
+281,l01101,investor,bank transfer,False,none,0
+282,l00865,investor,cash,False,none,0
+283,l00004,end user,cash,True,sbi,8155377
+284,l00833,end user,cash,True,pnb,9131341
+285,l00603,end user,cheque,True,icici,1047041
+286,l01034,end user,cash,False,none,0
+287,l00655,end user,upi,True,hdfc,6748705
+288,l00844,end user,upi,False,none,0
+289,l00784,end user,cash,True,axis,4716382
+290,l01074,investor,cash,True,icici,5127325
+291,l00443,investor,bank transfer,False,none,0
+292,l01178,investor,bank transfer,False,none,0
+293,l00436,investor,bank transfer,False,none,0
+294,l01169,investor,upi,False,none,0
+295,l00101,investor,cash,True,sbi,2341951
+296,l00773,investor,cash,False,none,0
+297,l00495,investor,cheque,False,none,0
+298,l01028,investor,upi,False,none,0
+299,l00807,investor,bank transfer,True,hdfc,9384163
+300,l01142,investor,cash,False,none,0
+301,l00846,investor,cash,False,none,0
+302,l00987,end user,cheque,True,icici,9898536
+303,l00228,end user,upi,False,none,0
+304,l01193,investor,cash,True,hdfc,9784560
+305,l00672,investor,cheque,False,none,0
+306,l00859,end user,bank transfer,True,axis,5795227
+307,l00925,end user,cash,True,hdfc,5498404
+308,l00067,end user,cheque,False,none,0
+309,l00068,end user,cash,True,pnb,1867408
+310,l00817,end user,upi,False,none,0
+311,l00212,investor,cash,True,hdfc,3945228
+312,l00013,end user,bank transfer,False,none,0
+313,l00494,investor,cash,False,none,0
+314,l01165,end user,cheque,True,axis,4257183
+315,l00300,investor,bank transfer,False,none,0
+316,l00411,investor,cash,True,axis,6417144
+317,l00757,end user,cash,False,none,0
+318,l01075,end user,cheque,True,axis,1057790
+319,l00696,investor,upi,False,none,0
+320,l01151,end user,bank transfer,True,hdfc,8075119
+321,l00724,investor,cheque,True,pnb,9111358
+322,l01016,end user,cash,False,none,0
+323,l00528,end user,cash,True,axis,9541485
+324,l00600,end user,bank transfer,True,hdfc,1888788
+325,l01120,investor,cheque,False,none,0
+326,l00567,end user,bank transfer,True,axis,2759394
+327,l00731,end user,upi,False,none,0
+328,l00274,investor,upi,False,none,0
+329,l00967,end user,upi,False,none,0
+330,l00238,investor,bank transfer,True,pnb,4102701
+331,l00406,investor,upi,True,sbi,1818681
+332,l00003,investor,upi,True,axis,5709455
+333,l00007,investor,upi,False,none,0
+334,l00312,end user,cheque,False,none,0
+335,l01091,investor,cheque,True,icici,3079265
+336,l00452,end user,bank transfer,True,pnb,3661077
+337,l00722,investor,upi,False,none,0
+338,l00216,end user,upi,True,icici,2831027
+339,l01086,investor,bank transfer,True,axis,1331442
+340,l00028,end user,cheque,True,sbi,3487034
+341,l01158,investor,cheque,False,none,0
+342,l00362,investor,cash,True,hdfc,1824315
+343,l00823,end user,cash,False,none,0
+344,l00781,end user,cheque,True,sbi,7281849
+345,l00629,end user,cheque,True,pnb,7046370
+346,l00454,end user,cheque,True,sbi,5199133
+347,l00739,investor,cheque,False,none,0
+348,l00536,end user,bank transfer,True,icici,843446
+349,l01050,end user,bank transfer,True,pnb,4782219
+350,l00399,investor,cheque,True,hdfc,9548649
+351,l00257,investor,cheque,False,none,0
+352,l00292,end user,bank transfer,True,hdfc,8522419
+353,l00026,investor,cash,False,none,0
+354,l00337,end user,cash,True,pnb,8415186
+355,l00585,investor,cheque,False,none,0
+356,l00048,end user,cash,False,none,0
+357,l00319,end user,bank transfer,False,none,0
+358,l00107,investor,upi,False,none,0
+359,l00799,end user,bank transfer,True,sbi,1365228
+360,l00056,investor,cheque,True,axis,2317224
+361,l00523,investor,upi,False,none,0
+362,l00214,end user,upi,True,sbi,6822545
+363,l00121,investor,cheque,False,none,0
+364,l00918,investor,cheque,True,sbi,2136837
+365,l01068,end user,cheque,True,pnb,9414669
+366,l01118,end user,cash,False,none,0
+367,l00073,end user,bank transfer,False,none,0
+368,l00948,end user,cash,True,icici,903352
+369,l00747,end user,cash,False,none,0
+370,l00716,investor,cheque,True,hdfc,7690803
+371,l00558,end user,bank transfer,True,hdfc,3097241
+372,l01082,end user,cheque,False,none,0
+373,l01046,investor,upi,False,none,0
+374,l00553,investor,cash,False,none,0
+375,l00562,investor,cheque,False,none,0
+376,l00425,investor,upi,True,sbi,2922189
+377,l01014,investor,bank transfer,False,none,0
+378,l00326,end user,upi,True,icici,6320917
+379,l00924,end user,cash,False,none,0
+380,l00317,investor,cash,False,none,0
+381,l00804,end user,bank transfer,False,none,0
+382,l01163,investor,cash,True,axis,7978761
+383,l00529,investor,cheque,False,none,0
+384,l00837,investor,cheque,False,none,0
+385,l00715,end user,bank transfer,False,none,0
+386,l00901,end user,upi,False,none,0
+387,l00061,investor,bank transfer,True,axis,3150900
+388,l00723,investor,bank transfer,False,none,0
+389,l00093,investor,cash,False,none,0
+390,l00858,end user,cash,True,pnb,502453
+391,l00619,investor,bank transfer,False,none,0
+392,l00352,end user,cheque,False,none,0
+393,l00933,investor,bank transfer,True,axis,1217195
+394,l00281,end user,cheque,True,pnb,7646353
+395,l00421,investor,upi,False,none,0
+396,l01115,investor,cash,False,none,0
+397,l00360,end user,cash,True,sbi,8679607
+398,l00423,investor,cheque,True,sbi,8218059
+399,l00679,end user,cheque,True,icici,6553478
+400,l00527,investor,cash,True,pnb,5838851
+401,l00478,end user,upi,True,icici,4736379
+402,l01095,end user,upi,False,none,0
+403,l00183,investor,bank transfer,True,pnb,5046202
+404,l01092,investor,upi,True,icici,9823153
+405,l00433,end user,cheque,True,hdfc,5917641
+406,l00111,investor,upi,False,none,0
+407,l00371,investor,upi,False,none,0
+408,l00240,investor,bank transfer,False,none,0
+409,l00709,end user,bank transfer,False,none,0
+410,l00630,investor,cash,False,none,0
+411,l00594,investor,bank transfer,False,none,0
+412,l00486,investor,bank transfer,False,none,0
+413,l00701,end user,cheque,True,axis,1842479
+414,l00262,investor,upi,True,sbi,7996666
+415,l00480,investor,cash,True,pnb,7419481
+416,l00650,investor,upi,True,icici,7555831
+417,l00340,end user,cheque,False,none,0
+418,l00669,end user,bank transfer,False,none,0
+419,l00552,end user,upi,False,none,0
+420,l00459,investor,bank transfer,False,none,0
+421,l00184,end user,cash,True,pnb,5092826
+422,l00138,investor,upi,True,hdfc,8490967
+423,l01161,investor,cheque,False,none,0
+424,l00707,investor,cheque,True,hdfc,6211563
+425,l00582,investor,bank transfer,True,axis,7819201
+426,l00081,end user,upi,True,pnb,4780566
+427,l00769,investor,cash,True,icici,5156056
+428,l00870,end user,cheque,True,sbi,6251856
+429,l00762,end user,cash,False,none,0
+430,l00030,investor,upi,False,none,0
+431,l00542,investor,cash,True,icici,3321397
+432,l00166,end user,upi,True,pnb,8083173
+433,l00249,end user,bank transfer,True,icici,1479244
+434,l00308,end user,cheque,True,sbi,2717191
+435,l00448,end user,bank transfer,True,sbi,7539780
+436,l00347,investor,upi,True,icici,8655340
+437,l00335,end user,upi,False,none,0
+438,l00286,end user,cash,False,none,0
+439,l00950,end user,cash,True,axis,1608475
+440,l00098,investor,cash,False,none,0
+441,l00468,end user,upi,True,icici,8632073
+442,l01037,end user,cheque,True,pnb,5478053
+443,l00913,end user,cash,True,pnb,2161542
+444,l00756,investor,bank transfer,True,hdfc,1419496
+445,l00945,investor,upi,True,axis,8402140
+446,l00614,investor,cheque,True,sbi,2563605
+447,l00802,investor,upi,True,pnb,7868613
+448,l00758,investor,bank transfer,False,none,0
+449,l00689,end user,bank transfer,True,pnb,8460053
+450,l00066,end user,cheque,True,icici,8081530
+451,l00794,investor,cheque,False,none,0
+452,l00744,investor,cash,False,none,0
+453,l00568,end user,cheque,False,none,0
+454,l01084,end user,upi,True,icici,6310799
+455,l01099,investor,cash,False,none,0
+456,l00303,end user,cash,True,icici,9173656
+457,l00255,end user,cash,False,none,0
+458,l00959,investor,cheque,True,icici,638205
+459,l01024,end user,cash,False,none,0
+460,l00313,end user,cash,False,none,0
+461,l00530,investor,cash,False,none,0
+462,l00222,end user,cash,True,icici,1066199
+463,l00389,end user,bank transfer,True,axis,7247989
+464,l00236,end user,cash,True,sbi,9452589
+465,l00810,investor,cheque,True,sbi,9129278
+466,l00483,end user,cheque,False,none,0
+467,l00713,end user,cash,False,none,0
+468,l00306,investor,upi,True,axis,4818467
+469,l01111,end user,cash,False,none,0
+470,l01090,investor,cheque,False,none,0
+471,l00772,end user,bank transfer,False,none,0
+472,l00917,end user,upi,False,none,0
+473,l01139,end user,upi,True,icici,3781513
+474,l00250,investor,cheque,True,pnb,9443457
+475,l00760,end user,upi,False,none,0
+476,l00595,investor,bank transfer,True,pnb,7459016
+477,l00072,investor,cheque,True,axis,8239353
+478,l00095,end user,upi,False,none,0
+479,l00546,investor,bank transfer,False,none,0
+480,l00034,investor,upi,False,none,0
+481,l00862,end user,cheque,True,sbi,6523031
+482,l00579,end user,cash,False,none,0
+483,l00449,end user,cheque,False,none,0
+484,l00446,investor,cheque,True,sbi,4501029
+485,l00260,investor,cheque,True,pnb,5015838
+486,l00205,end user,upi,True,sbi,3390368
+487,l00573,investor,upi,True,icici,2212796
+488,l00824,investor,upi,True,icici,8996818
+489,l00586,investor,upi,True,sbi,1421020
+490,l00366,end user,cash,True,icici,4628690
+491,l00812,end user,cheque,False,none,0
+492,l00078,investor,bank transfer,True,hdfc,3496108
+493,l00085,end user,cheque,True,pnb,7251440
+494,l00539,end user,bank transfer,True,axis,9103612
+495,l00083,end user,bank transfer,False,none,0
+496,l00458,investor,upi,True,pnb,2683390
+497,l01138,end user,cheque,True,icici,1167136
+498,l00615,end user,cash,False,none,0
+499,l01186,end user,bank transfer,True,pnb,2201505
+500,l01076,investor,cash,True,hdfc,6989577
+501,l00737,investor,cheque,False,none,0
+502,l00437,end user,cash,False,none,0
+503,l00555,end user,cash,True,hdfc,4508067
+504,l01080,investor,cheque,False,none,0
+505,l01062,end user,cash,True,axis,9591953
+506,l00351,end user,upi,False,none,0
+507,l00197,end user,upi,False,none,0
+508,l00465,end user,cheque,False,none,0
+509,l00589,investor,cash,False,none,0
+510,l00006,end user,bank transfer,False,none,0
+511,l00311,end user,cheque,False,none,0
+512,l00662,investor,upi,False,none,0
+513,l00405,end user,bank transfer,False,none,0
+514,l01196,investor,bank transfer,False,none,0
+515,l01044,investor,bank transfer,True,sbi,762827
+516,l01058,investor,bank transfer,True,pnb,2319384
+517,l00105,end user,bank transfer,True,pnb,4957272
+518,l00537,end user,cash,True,pnb,1933007
+519,l00606,investor,upi,True,sbi,612189
+520,l00063,investor,cheque,True,sbi,7311912
+521,l00282,end user,bank transfer,True,pnb,577636
+522,l01056,end user,cash,True,pnb,2283908
+523,l00239,investor,upi,True,axis,4273549
+524,l00224,end user,upi,False,none,0
+525,l00146,end user,bank transfer,False,none,0
+526,l01119,end user,cheque,False,none,0
+527,l00374,investor,cash,False,none,0
+528,l00119,investor,bank transfer,False,none,0
+529,l00803,investor,cheque,True,axis,2475692
+530,l00251,end user,upi,False,none,0
+531,l01157,end user,cheque,False,none,0
+532,l00010,investor,bank transfer,False,none,0
+533,l00450,investor,upi,True,icici,6185724
+534,l00874,end user,cash,True,pnb,1138756
+535,l00390,investor,upi,False,none,0
+536,l00966,end user,cheque,True,sbi,9270313
+537,l00461,end user,bank transfer,False,none,0
+538,l01147,investor,cheque,False,none,0
+539,l00145,end user,bank transfer,False,none,0
+540,l00502,investor,cheque,True,axis,9566156
+541,l01108,investor,upi,False,none,0
+542,l00540,end user,cash,False,none,0
+543,l00178,end user,bank transfer,True,icici,3849774
+544,l01159,investor,cheque,True,axis,2954983
+545,l01051,investor,upi,True,pnb,7339555
+546,l00584,end user,cash,True,pnb,1840761
+547,l01195,end user,cash,True,hdfc,1191576
+548,l00008,end user,upi,False,none,0
+549,l00574,end user,cheque,True,sbi,2638261
+550,l00843,investor,bank transfer,True,pnb,3380585
+551,l00358,investor,cash,True,pnb,6756445
+552,l00330,investor,cash,False,none,0
+553,l00705,end user,bank transfer,False,none,0
+554,l00830,end user,cash,True,axis,8022669
+555,l00259,end user,cheque,False,none,0
+556,l00891,investor,bank transfer,False,none,0
+557,l00834,end user,cash,False,none,0
+558,l01188,end user,cash,True,hdfc,7030118
+559,l00905,end user,bank transfer,False,none,0
+560,l00526,end user,cash,True,hdfc,5238932
+561,l00814,investor,bank transfer,True,pnb,2345941
+562,l00732,end user,cheque,True,pnb,8441708
+563,l01032,end user,bank transfer,True,axis,847938
+564,l01141,investor,cheque,True,sbi,2764928
+565,l00441,investor,upi,False,none,0
+566,l00532,end user,cheque,True,pnb,4640629
+567,l00960,end user,bank transfer,True,pnb,1578438
+568,l00229,end user,cash,False,none,0
+569,l01041,investor,upi,False,none,0
+570,l00213,investor,upi,True,icici,4841395
+571,l00080,end user,cash,False,none,0
+572,l00149,investor,cash,True,hdfc,6019642
+573,l00592,end user,cash,True,icici,760741
+574,l00708,end user,bank transfer,True,sbi,5272443
+575,l00590,end user,cheque,False,none,0
+576,l00134,end user,upi,True,icici,5183097
+577,l00782,investor,upi,False,none,0
+578,l00409,investor,cash,True,pnb,4106112
+579,l00970,end user,cash,True,icici,2920025
+580,l00508,end user,cheque,True,pnb,8408727
+581,l00877,end user,cash,True,axis,776604
+582,l00505,end user,upi,True,pnb,8255007
+583,l00719,end user,cash,True,hdfc,6443922
+584,l00348,investor,bank transfer,True,icici,4336220
+585,l00387,investor,upi,False,none,0
+586,l00001,investor,upi,True,hdfc,5273875
+587,l00361,end user,cash,False,none,0
+588,l01134,end user,cheque,False,none,0
+589,l00476,investor,cash,True,sbi,4846166
+590,l00778,end user,cash,True,sbi,6459675
+591,l00754,end user,cash,True,icici,4955370
+592,l00173,investor,cash,False,none,0
+593,l00451,investor,cash,False,none,0
+594,l00126,investor,bank transfer,True,axis,8193628
+595,l00931,end user,bank transfer,False,none,0
+596,l00531,end user,bank transfer,True,icici,5310756
+597,l00091,end user,cash,True,icici,5589727
+598,l01162,end user,cheque,True,axis,2309916
+599,l00182,end user,upi,True,hdfc,6658940
+600,l01027,end user,bank transfer,False,none,0
+601,l01000,investor,cash,False,none,0
+602,l00252,investor,upi,True,axis,2984726
+603,l00070,end user,bank transfer,True,pnb,7433197
+604,l00132,end user,bank transfer,False,none,0
+605,l00301,end user,cash,True,sbi,2272288
+606,l01133,end user,bank transfer,False,none,0
+607,l00327,end user,cheque,True,sbi,5282135
+608,l01020,end user,upi,False,none,0
+609,l00500,investor,cash,False,none,0
+610,l00666,investor,bank transfer,True,axis,5170015
+611,l00919,end user,upi,True,icici,3484202
+612,l00496,end user,cheque,False,none,0
+613,l00339,end user,upi,False,none,0
+614,l00964,end user,cheque,False,none,0
+615,l00165,investor,bank transfer,True,icici,7071004
+616,l00029,investor,cheque,True,icici,1572903
+617,l00517,investor,cheque,False,none,0
+618,l00194,end user,bank transfer,False,none,0
+619,l01104,investor,cheque,True,icici,7728522
+620,l00170,investor,cash,False,none,0
+621,l01059,investor,upi,False,none,0
+622,l00174,end user,cash,False,none,0
+623,l00519,investor,bank transfer,False,none,0
+624,l00969,investor,upi,False,none,0
+625,l00702,end user,cheque,True,icici,8354247
+626,l00492,end user,cash,True,sbi,5984039
+627,l00074,investor,upi,True,pnb,5716650
+628,l00981,end user,bank transfer,False,none,0
+629,l00588,end user,bank transfer,False,none,0
+630,l00235,end user,bank transfer,False,none,0
+631,l00215,investor,upi,True,sbi,1975733
+632,l00947,investor,bank transfer,False,none,0
+633,l00133,end user,cash,True,pnb,3341668
+634,l01156,investor,cash,False,none,0
+635,l00733,investor,cash,True,axis,4562906
+636,l00941,end user,cheque,True,sbi,4154277
+637,l00186,investor,cash,False,none,0
+638,l00042,end user,bank transfer,True,axis,9849719
+639,l00109,end user,cheque,True,pnb,6698641
+640,l00849,investor,bank transfer,False,none,0
+641,l00569,investor,upi,False,none,0
+642,l00651,investor,bank transfer,True,hdfc,1206066
+643,l01001,end user,cash,False,none,0
+644,l01166,investor,cash,False,none,0
+645,l00484,investor,bank transfer,False,none,0
+646,l00469,end user,bank transfer,False,none,0
+647,l00025,end user,cash,True,icici,6417246
+648,l00661,investor,cheque,True,sbi,4947601
+649,l00680,end user,upi,True,axis,9787896
+650,l00753,investor,upi,False,none,0
+651,l00994,investor,bank transfer,False,none,0
+652,l00367,end user,bank transfer,False,none,0
+653,l00840,investor,cheque,True,axis,582762
+654,l01053,end user,upi,False,none,0
+655,l00384,end user,bank transfer,False,none,0
+656,l00455,end user,upi,True,pnb,4975019
+657,l00265,end user,cash,False,none,0
+658,l00761,end user,cash,True,sbi,5737636
+659,l00980,end user,upi,False,none,0
+660,l00445,end user,cash,False,none,0
+661,l00396,end user,cheque,False,none,0
+662,l00742,investor,upi,True,icici,6241077
+663,l00177,investor,bank transfer,False,none,0
+664,l00019,end user,cash,False,none,0
+665,l00949,investor,cheque,False,none,0
+666,l00815,end user,upi,False,none,0
+667,l00596,end user,upi,True,pnb,2934931
+668,l00062,investor,cheque,True,icici,6925141
+669,l00273,end user,cheque,True,hdfc,8214297
+670,l01126,end user,bank transfer,True,sbi,2354647
+671,l00279,investor,cheque,True,icici,9148537
+672,l00842,investor,cash,True,hdfc,4444682
+673,l00369,investor,cheque,True,sbi,1902601
+674,l00887,end user,cash,False,none,0
+675,l01015,investor,cash,True,axis,1758443
+676,l00860,end user,upi,True,axis,5526582
+677,l00721,investor,cheque,True,pnb,9119817
+678,l00826,investor,cheque,True,icici,4018302
+679,l00548,investor,cheque,False,none,0
+680,l00880,end user,upi,False,none,0
+681,l00900,end user,upi,True,icici,3023962
+682,l00457,investor,upi,False,none,0
+683,l00394,investor,cash,False,none,0
+684,l00676,end user,cash,False,none,0
+685,l00912,investor,cheque,False,none,0
+686,l00965,investor,upi,True,icici,2168854
+687,l00376,end user,upi,True,hdfc,8012210
+688,l00413,end user,upi,False,none,0
+689,l00075,investor,cash,True,axis,660022
+690,l01122,end user,cheque,False,none,0
+691,l00863,investor,upi,True,axis,5966239
+692,l00501,end user,upi,False,none,0
+693,l00942,end user,cheque,False,none,0
+694,l00617,end user,bank transfer,True,sbi,9355095
+695,l00115,end user,cheque,True,axis,2622789
+696,l00418,investor,cash,False,none,0
+697,l00602,investor,upi,True,pnb,1365401
+698,l00605,end user,cheque,False,none,0
+699,l00090,investor,cheque,False,none,0
+700,l01149,end user,upi,True,icici,1085605
+701,l00499,end user,bank transfer,False,none,0
+702,l00876,investor,cheque,True,hdfc,6780034
+703,l00927,investor,cheque,False,none,0
+704,l00999,investor,bank transfer,True,pnb,3668749
+705,l00012,end user,cheque,False,none,0
+706,l00397,investor,cash,True,pnb,4396552
+707,l00755,end user,bank transfer,False,none,0
+708,l00556,investor,upi,True,axis,7368444
+709,l00043,investor,upi,False,none,0
+710,l00168,end user,upi,False,none,0
+711,l00417,end user,cheque,True,pnb,2216675
+712,l00577,end user,cheque,True,sbi,1293284
+713,l00268,investor,bank transfer,False,none,0
+714,l00808,investor,bank transfer,True,sbi,8998652
+715,l00427,investor,cash,True,axis,7791589
+716,l00691,investor,bank transfer,True,icici,7781634
+717,l00545,end user,bank transfer,False,none,0
+718,l01123,investor,upi,True,hdfc,2028884
+719,l00675,end user,bank transfer,False,none,0
+720,l00690,investor,upi,False,none,0
